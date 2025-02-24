@@ -6,8 +6,6 @@ This AI-powered blog summarizer automates the process of researching, classifyin
 ## Features
 - **Web Search**: Uses Tavily to fetch search results.
 - **Content Crawling**: Uses Firecrawl to extract structured content from URLs.
-  
-![hero](https://github.com/user-attachments/assets/4648f278-4c6c-4156-89b6-c37f5874976b)
 - **Article Classification**: Categorizes articles into relevant sub-topics.
 - **Summarization**: Generates structured summaries of articles.
 - **SEO Optimization**: Enhances content for search engines.
@@ -59,7 +57,7 @@ export BLOGGER_API_KEY=your_api_key
 
 ## Workflow
 1. **Search**: Fetches URLs related to the query.
-2. **Crawling**: Extracts article content from the retrieved URLs.
+2. **Crawling**: Extracts article content from the retrieved URLs.  ![hero](https://github.com/user-attachments/assets/4648f278-4c6c-4156-89b6-c37f5874976b)
 3. **Classification**: Categorizes articles into sub-topics.
 4. **Summarization**: Generates structured summaries.
 5. **SEO Optimization**: Improves content for better search visibility.
