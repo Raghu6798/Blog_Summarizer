@@ -2,7 +2,7 @@
 
 
 ## Overview
-This AI-powered blog generator automates the process of researching, classifying, summarizing, optimizing, and illustrating blog articles. It leverages multiple AI models and APIs to extract relevant content from the web, analyze it, generate SEO-friendly summaries, and even create images for blog posts.
+This AI-powered blog summarizer automates the process of researching, classifying, summarizing, optimizing, and illustrating blog articles. It leverages multiple AI models and APIs to extract relevant content from the web, analyze it, generate SEO-friendly summaries, and even create images for blog posts.
 
 ## Features
 - **Web Search**: Uses Tavily to fetch search results.
@@ -27,9 +27,9 @@ This AI-powered blog generator automates the process of researching, classifying
   - `firecrawl`
   - `PIL` (for image handling)
 - **APIs Used**:
-  - Tavily Search API
-  - Firecrawl API
-  - Google Generative AI
+  - Tavily Search API 
+  - Firecrawl API 🔥
+  - Google Generative AI 
   - Cerebras AI
   - Together AI
 
