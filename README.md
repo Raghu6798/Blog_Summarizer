@@ -1,6 +1,5 @@
 # Blog_Summarizer
 
-
 ## Overview
 This AI-powered blog summarizer automates the process of researching, classifying, summarizing, optimizing, and illustrating blog articles. It leverages multiple AI models and APIs to extract relevant content from the web, analyze it, generate SEO-friendly summaries, and even create images for blog posts.
 
@@ -12,6 +11,7 @@ This AI-powered blog summarizer automates the process of researching, classifyin
 - **SEO Optimization**: Enhances content for search engines.
 - **AI-Generated Images**: Creates relevant images for blog content.
 - **Display & Export**: Presents results in a structured markdown format.
+- **Blogger API Integration**: Publishes the generated summary to Blogger automatically.
 
 ## Technologies Used
 - **AI Models**:
@@ -32,6 +32,7 @@ This AI-powered blog summarizer automates the process of researching, classifyin
   - Google Generative AI 
   - Cerebras AI
   - Together AI
+  - Blogger API
 
 ## Installation
 Ensure you have the required dependencies installed:
@@ -48,6 +49,7 @@ export GOOGLE_API_KEY=your_api_key
 export TOGETHER_API_KEY=your_api_key
 export CEREBRAS_API_KEY=your_api_key
 export FIRECRAWL_API_KEY=your_api_key
+export BLOGGER_API_KEY=your_api_key
 ```
 
 ## Workflow
@@ -58,6 +60,7 @@ export FIRECRAWL_API_KEY=your_api_key
 5. **SEO Optimization**: Improves content for better search visibility.
 6. **Image Generation**: Creates images using AI.
 7. **Display Results**: Presents content in markdown format.
+8. **Publishing**: Automatically publishes the generated summary to Blogger via the Blogger API.
 
 ## Usage
 Run the main script to start the AI blog generator:
@@ -69,6 +72,7 @@ python ai_blog_generator.py
 - Structured blog content
 - AI-generated images
 - Markdown-ready text for publishing
+- Automated publishing to Blogger
 
 ## Directory Structure
 ```
@@ -81,7 +85,6 @@ AI_Blog_Generator/
 ```
 
 ## Future Improvements
-- Integrate additional NLP models for better summarization.
 - Improve SEO scoring with advanced analytics.
 - Automate blog publishing to platforms like WordPress.
 - Implement a user-friendly frontend interface.
@@ -90,5 +93,5 @@ AI_Blog_Generator/
 This project is open-source under the MIT License.
 
 ## Author
-Developed by Raghu Nandan Erukulla - Student of Indian Institute of Information Technology Nagpur
-             Ayushman Singh - Student of Indian Institute of Information Technology Nagpur
+Developed by Raghu Nandan Erukulla - Student of Indian Institute of Information Technology Nagpur  
+Ayushman Singh - Student of Indian Institute of Information Technology Nagpur
