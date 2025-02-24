@@ -13,12 +13,19 @@ This AI-powered blog summarizer automates the process of researching, classifyin
 - **Display & Export**: Presents results in a structured markdown format.
 - **Blogger API Integration**: Publishes the generated summary to Blogger automatically.
 
-## Strategies Implemented : 
+## Strategies Implemented before  : 
 
 - **Iterative Refinement**: Implements advanced summarization strategies to refine content.
 - ![download (1)](https://github.com/user-attachments/assets/ffe2314b-93f2-4a5c-896a-87191eb9a3ce)
+  Iterative refinement represents one strategy for summarizing long texts. The strategy is as follows:
 
-- **Map-reduce Summarization** :
+Split a text into smaller documents;
+-Summarize the first document;
+-Refine or update the result based on the next document;
+-Repeat through the sequence of documents until finished.
+-It is especially effective when understanding of a sub-document depends on prior context-- for instance, when summarizing a novel or body of text with an inherent sequence.
+
+
 
 ## Technologies Used
 - **Open Source LLMs**:
