@@ -88,8 +88,21 @@ AI_Blog_Generator/
 │── .env             # API keys (not included in repo)
 ```
 
-## An example screenshot of published Blog
-![image]("https://github.com/Raghu6798/Blog_Summarizer/blob/main/Screenshot%202025-02-24%20135309.png")
+## Leveraged Langgraph's Stateful Pipelines with the below schema : 
+
+``` python
+class GraphState(BaseModel):
+    query: str
+    search_results: Optional[List[Dict[str, str]]] = None
+    crawled_content: Optional[Dict[str, str]] = (
+        None  # 🔹 New field for extracted Firecrawl content
+    )
+    classified_articles: Optional[Dict[str, List[str]]] = None
+    summaries: Optional[Dict[str, str]] = {}
+    seo_optimized_content: Optional[Dict[str, str]] = None
+    image_paths: Optional[Dict[str, str]] = None
+
+```
 
 
 ## Future Improvements
