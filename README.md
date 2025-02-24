@@ -62,7 +62,6 @@ export BLOGGER_API_KEY=your_api_key
 4. **Summarization**: Generates structured summaries.
 5. **SEO Optimization**: Improves content for better search visibility.
 6. **Image Generation**: Creates images using AI.   ![images](https://github.com/user-attachments/assets/a20a2076-c0c6-4cda-b4e9-c4f09109fc8d)
-
 7. **Display Results**: Presents content in markdown format.
 8. **Publishing**: Automatically publishes the generated summary to Blogger via the Blogger API.
 
