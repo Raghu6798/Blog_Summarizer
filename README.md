@@ -87,7 +87,7 @@ AI_Blog_Generator/
 ```
 
 ## An example screenshot of published Blog
-![AltText]("https://github.com/Raghu6798/Blog_Summarizer/blob/main/Screenshot%202025-02-24%20135309.png")
+![image]("https://github.com/Raghu6798/Blog_Summarizer/blob/main/Screenshot%202025-02-24%20135309.png")
 
 
 ## Future Improvements
