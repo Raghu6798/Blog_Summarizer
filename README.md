@@ -1,6 +1,5 @@
 # Blog_Summarizer
 
-# AI Blog Generator - README
 
 ## Overview
 This AI-powered blog generator automates the process of researching, classifying, summarizing, optimizing, and illustrating blog articles. It leverages multiple AI models and APIs to extract relevant content from the web, analyze it, generate SEO-friendly summaries, and even create images for blog posts.
