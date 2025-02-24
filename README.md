@@ -85,7 +85,9 @@ AI_Blog_Generator/
 │── README.md        # Documentation
 │── .env             # API keys (not included in repo)
 ```
-![Alt Text]("C:\Users\Raghu\OneDrive\Pictures\Screenshots\Screenshot 2025-02-24 135309.png")
+
+## An example screenshot of published Blog
+![Alt Text]("[C:\Users\Raghu\OneDrive\Pictures\Screenshots\Screenshot 2025-02-24 135309.png](https://github.com/Raghu6798/Blog_Summarizer/edit/main/README.md)")
 
 
 ## Future Improvements
