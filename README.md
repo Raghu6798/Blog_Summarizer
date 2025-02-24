@@ -36,6 +36,10 @@ This AI-powered blog summarizer automates the process of researching, classifyin
   - Together AI
   - Blogger API
 
+
+!(image)([https://docs.firecrawl.dev/v0/introduction](https://mintlify.s3.us-west-1.amazonaws.com/firecrawl/images/hero.png)
+
+
 ## Installation
 Ensure you have the required dependencies installed:
 ```sh
