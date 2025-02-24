@@ -36,8 +36,7 @@ This AI-powered blog summarizer automates the process of researching, classifyin
   - Together AI
   - Blogger API
 
-
-![image](https://mintlify.s3.us-west-1.amazonaws.com/firecrawl/images/hero.png)
+![hero](https://github.com/user-attachments/assets/4648f278-4c6c-4156-89b6-c37f5874976b)
 
 
 ## Installation
