@@ -14,7 +14,7 @@ This AI-powered blog summarizer automates the process of researching, classifyin
 - **Blogger API Integration**: Publishes the generated summary to Blogger automatically.
 
 ## Technologies Used
-- **AI Models**:
+- **Open Source LLMs**:
   - Gemini-2.0-flash (Google Generative AI)
   - Llama-3.1-8b-instant (Groq)
   - Llama-3.3-70b (Cerebras)
