@@ -36,7 +36,7 @@ This AI-powered blog summarizer automates the process of researching, classifyin
 ## Installation
 Ensure you have the required dependencies installed:
 ```sh
-pip install together langchain-groq langchain-google-genai bs4 google-auth google-auth-oauthlib googleapiclient langchain-community pydantic python-dotenv PIL
+pip install together langchain-groq langchain-google-genai bs4 google-auth google-auth-oauthlib googleapiclient langchain-community pydantic python-dotenv PIL langchain_cerebras langgraph
 ```
 
 ## Environment Variables
@@ -90,4 +90,5 @@ AI_Blog_Generator/
 This project is open-source under the MIT License.
 
 ## Author
-Developed by [Your Name] - Generative AI Specialist
+Developed by Raghu Nandan Erukulla - Student of Indian Institute of Information Technology Nagpur
+             Ayushman Singh - Student of Indian Institute of Information Technology Nagpur
