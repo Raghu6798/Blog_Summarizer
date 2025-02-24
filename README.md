@@ -23,6 +23,8 @@ This AI-powered blog summarizer automates the process of researching, classifyin
   - `langchain`
   - `pydantic`
   - `bs4` (BeautifulSoup)
+  - `langchain` (LLM Integration & ChatPromptTemplate)
+  - 'langgraph` (Stateful Pipeline for the dynamic flow of state variables)
   - `google-auth`
   - `firecrawl`
   - `PIL` (for image handling)
