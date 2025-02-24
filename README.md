@@ -56,7 +56,7 @@ export BLOGGER_API_KEY=your_api_key
 ```
 
 ## Workflow
-1. **Search**: Fetches URLs related to the query.![images](https://github.com/user-attachments/assets/8294e07f-8877-4236-83b3-a8bb3bf21385)
+1. **Search**: Fetches URLs related to the query.  ![images](https://github.com/user-attachments/assets/8294e07f-8877-4236-83b3-a8bb3bf21385)
 2. **Crawling**: Extracts article content from the retrieved URLs.  ![hero](https://github.com/user-attachments/assets/4648f278-4c6c-4156-89b6-c37f5874976b)
 3. **Classification**: Categorizes articles into sub-topics.
 4. **Summarization**: Generates structured summaries.
