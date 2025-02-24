@@ -6,6 +6,8 @@ This AI-powered blog summarizer automates the process of researching, classifyin
 ## Features
 - **Web Search**: Uses Tavily to fetch search results.
 - **Content Crawling**: Uses Firecrawl to extract structured content from URLs.
+  
+![hero](https://github.com/user-attachments/assets/4648f278-4c6c-4156-89b6-c37f5874976b)
 - **Article Classification**: Categorizes articles into relevant sub-topics.
 - **Summarization**: Generates structured summaries of articles.
 - **SEO Optimization**: Enhances content for search engines.
@@ -35,8 +37,6 @@ This AI-powered blog summarizer automates the process of researching, classifyin
   - Cerebras AI
   - Together AI
   - Blogger API
-
-![hero](https://github.com/user-attachments/assets/4648f278-4c6c-4156-89b6-c37f5874976b)
 
 
 ## Installation
