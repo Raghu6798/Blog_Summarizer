@@ -76,6 +76,8 @@ python ai_blog_generator.py
 - Markdown-ready text for publishing
 - Automated publishing to Blogger
 
+![Screenshot 2025-02-24 135309](https://github.com/user-attachments/assets/1f100da4-9b41-436f-bfeb-11be25fe6ba1)
+
 ## Directory Structure
 ```
 AI_Blog_Generator/
