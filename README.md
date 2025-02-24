@@ -15,7 +15,8 @@ This AI-powered blog summarizer automates the process of researching, classifyin
 
 ## Strategies Implemented : 
 
-- **Iterative Refinement**: Implements advanced summarization strategies to refine content.![download (1)](https://github.com/user-attachments/assets/ffe2314b-93f2-4a5c-896a-87191eb9a3ce)
+- **Iterative Refinement**: Implements advanced summarization strategies to refine content.
+- ![download (1)](https://github.com/user-attachments/assets/ffe2314b-93f2-4a5c-896a-87191eb9a3ce)
 
 - **Map-reduce Summarization** :
 
